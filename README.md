@@ -1,5 +1,3 @@
-# main
-
 <div align="center">
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1VICPJ9yUu9iqYevSwvblk&ust=1683799793209000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCA5pbB6v4CFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
 </div>  
