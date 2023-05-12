@@ -140,3 +140,21 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+### Project  
+![codeninja](https://codeninjaconsulting.com/wp-content/uploads/2021/04/codeninja.svg)  
+  
+
+
+
+### Description  
+Read about our futuristic approaches in software development right here in our latest blogs that can also give you a new perspective into all of our diverse services, latest trends and best IT practices.
+
+Read about our futuristic approaches in software development right here in our latest blogs that can also give you a new perspective into all of our diverse services, latest trends and best IT practices.
+
+Read about our futuristic approaches in software development right here in our latest blogs that can also give you a new perspective into all of our diverse services, latest trends and best IT practices.  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
