@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Code Lover <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;Devops++Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Engineer;Frontend+Engineer;Backend+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. As a remote full-time Full Stack Engineer my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills and fluent in English. I like to collaborate with the team to accomplish goals.
@@ -12,21 +12,7 @@
 If you're still reading me, why don't we connect?</h4>
 
 <!-- <div style="text-align:center;">
-<a href="https://www.instagram.com/awais_khan_officials/">
-  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://github.com/DevNinja56/">
-  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-	</div> -->
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
-
-<br/>
-
-<h5>
 
 <h2 >  Ask me about </h2>
 <!-- 	<div align="center">
@@ -43,16 +29,7 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
    <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-	<br>
-	<br>
-   <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
-   <img align="center" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-   <img align="center" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-   <img align="center" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
-   <img align="center" alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-   <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img align="center" alt="Tailwind " src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-	
 </div>
 <h3>Backend:</h3> <div style="display: inline-block">
     <img align="center"alt="EXPRESS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
@@ -75,7 +52,8 @@ If you're still reading me, why don't we connect?</h4>
 	
 </div> 
 <h3>Ecommerce:</h3> <div style="display: inline-block" >
-    <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />       
+    <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />  
+	<img align="center" alt="Magento" src="https://img.shields.io/badge/WordPress-4A748D?style=for-the-badge&logo=wordpress&logoColor=white" />  
 </div> 
 <h3>DevOps:</h3>  <div style="display: inline-block">
     <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
