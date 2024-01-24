@@ -52,64 +52,12 @@ If you're still reading me, why don't we connect?</h4>
 	
 </div> 
 <h3>Ecommerce:</h3> <div style="display: inline-block" >
-    <img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />  
-	<img align="center" alt="Magento" src="https://img.shields.io/badge/WordPress-4A748D?style=for-the-badge&logo=wordpress&logoColor=white" />  
+    	<img align="center" alt="Magento" src="https://img.shields.io/badge/Mangento-E34F26?style=for-the-badge&logo=magento&logoColor=white" />  
+	<img align="center" alt="Wordpress" src="https://img.shields.io/badge/WordPress-4A748D?style=for-the-badge&logo=wordpress&logoColor=white" />  
+	<img align="center" alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>  
 </div> 
-<h3>DevOps:</h3>  <div style="display: inline-block">
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Amplify" src="https://img.shields.io/badge/amplify-000000?style=for-the-badge&logo=amplify&logoColor=white" />
-    <img align="center" alt="Elastic Beanstalk" src="https://img.shields.io/badge/-ElasticBeanstalk-005571?style=for-the-badge&logo=elasticBeanstalk" />
-    <img align="center" alt="EC2" src="https://img.shields.io/badge/ec2-007ACC?style=for-the-badge&logo=ec2&logoColor=white" />
-    <img align="center"alt="Lambda" src="https://img.shields.io/badge/lambda-%23326ce5.svg?style=for-the-badge&logo=lambda&logoColor=white" />
-    <img align="center" alt="S3" src="https://img.shields.io/badge/s3-43853D?style=for-the-badge&logo=s3&logoColor=white" />
-    <img align="center"alt="RDS" src="https://img.shields.io/badge/rds-%23DD0031.svg?&style=for-the-badge&logo=rds&logoColor=white" /> 
-    <img align="center"alt="DynamoDB" src="https://img.shields.io/badge/%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-    <img align="center"alt="Cognito" src="https://img.shields.io/badge/Cognito-311C87?&style=for-the-badge&logo=Cognito&logoColor=white" /> 
-    <img align="center"alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img align="center"alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
-    <img align="center"alt="DO" src="https://img.shields.io/badge/DO-%23E0234E.svg?style=for-the-badge&logo=DO&logoColor=white" /> 
-	<br>
-	<br>
-    <img align="center"alt="CI/CD" src="https://img.shields.io/badge/CI/CD-316192?style=for-the-badge&logo=CI/CD&logoColor=white" />  
-    <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center"alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />   
-    <img align="center"alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
-	
-	 
-</div>  </h5>
-<br>
 
 
-<h2 align=center>  🔥 Streak Stats </h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiskhan404&theme=algolia" alt="Awaiskhan404"  /></p><br>
-
-<h2 align=center>  💻 GitHub Profile Stats: </h2>
-
-  <br/>
-  <div  >
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Awaiskhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<!-- <br/> -->
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiskhan404&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Awaiskhan404" height="192px"/>
-  <br/>
-  </div>
-
-
-<br/>
-<!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
-
-
-<!-- <div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div> -->
-
-<!-- ## ⚡ GitHub Activity Graph:
-  <br/>
-   <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
 
 <h2 align=center>  💻 Languages and Tools: 🛠 </h2>
 
